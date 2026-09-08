@@ -1,3 +1,4 @@
-flask==3.0.0
-yt-dlp
+Flask==3.0.2
+yt-dlp>=2024.03.10
 gunicorn==21.2.0
+gevent==24.2.0
